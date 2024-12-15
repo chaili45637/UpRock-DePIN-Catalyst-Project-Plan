@@ -1,3 +1,10 @@
+## How to Use
+1. Save the provided code as `project_code.py`.
+2. Run `python project_code.py` from your terminal.
+3. Replace `api_key` and `ad_id` in the code with your own UpRock API key, ad ID, and required parameters.
+
+
+
 # UpRock-DePIN-Catalyst-Project-Plan
 UpRock DePIN Catalyst Project Plan for developing tools and services leveraging UpRock’s decentralized network of mobile IPs and devices.
 Project Overview:
